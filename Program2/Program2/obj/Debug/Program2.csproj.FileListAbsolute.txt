@@ -1,0 +1,10 @@
+C:\Users\Ewa\Desktop\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\Ewa\Desktop\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\Ewa\Desktop\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.csprojAssemblyReference.cache
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.Form1.resources
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.cache
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\Ewa\Desktop\Program2\Program2\obj\Debug\Program2.pdb
